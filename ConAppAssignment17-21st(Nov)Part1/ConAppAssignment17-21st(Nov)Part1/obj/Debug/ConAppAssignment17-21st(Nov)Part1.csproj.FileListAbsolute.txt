@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\bin\Debug\ConAppAssignment17-21st(Nov)Part1.exe.config
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\bin\Debug\ConAppAssignment17-21st(Nov)Part1.exe
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\bin\Debug\ConAppAssignment17-21st(Nov)Part1.pdb
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\obj\Debug\ConAppAssignment17-21st(Nov)Part1.csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\obj\Debug\ConAppAssignment17-21st(Nov)Part1.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\obj\Debug\ConAppAssignment17-21st(Nov)Part1.exe
+C:\Mphasis -B233\AppTwo\Day-12(21-Nov)\Assignment-21(Nov)\ConAppAssignment17-21st(Nov)Part1\ConAppAssignment17-21st(Nov)Part1\obj\Debug\ConAppAssignment17-21st(Nov)Part1.pdb
